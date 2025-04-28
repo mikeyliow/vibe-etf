@@ -135,7 +135,7 @@
 <main>
     <div class="header">
         <div class="title-container">
-            <h1>Mikey's <span class="vibe">VIBE</span><span class="etf">.ETF</span></h1>
+            <h1>🚀 Mikey's <span class="vibe">VIBE</span><span class="etf">.ETF</span></h1>
         </div>
     </div>
     
