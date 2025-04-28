@@ -135,7 +135,6 @@
 <main>
     <div class="header">
         <div class="title-container">
-            <img src="https://raw.githubusercontent.com/mikeyliow/vibe-etf/main/static/favicon.png" alt="VIBE.ETF" class="title-icon" />
             <h1>Mikey's <span class="vibe">VIBE</span><span class="etf">.ETF</span></h1>
         </div>
     </div>
